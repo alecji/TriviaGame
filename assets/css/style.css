@@ -1,0 +1,59 @@
+body {
+    background-image: url("http://www.prosportsbackgrounds.com/images/nfl%20grass%20logo.jpg?crc=260174271");
+    background-size: cover;
+    font-family: 'Libre Baskerville', serif;
+ }
+
+ .jumbotron{
+    padding: 20px;
+    opacity: .95;
+    text-align: center;
+    background-color: #1a3117;
+    color: #e3e3e3;
+    margin: 0;
+    margin-top: 2em;
+    font-family: 'Anton', sans-serif;
+    width: 100%;
+ }
+
+
+ .timer{
+    background-color: #1a3117;
+    color: #e3e3e3;
+    text-align: center;
+    opacity: .95;
+    padding: 20px;
+    border: solid #000000 5px;
+    
+ }
+
+ .buttonDiv{
+    background-color: #1a3117;
+    color: #e3e3e3;
+    text-align: center;
+    opacity: .95;
+    padding-top: 10px;
+ }
+
+ .game{
+    background-color: #1a3117;
+    color: #e3e3e3;
+    text-align: center;
+    opacity: .95;
+    margin-bottom: 2em;
+    padding-top: 20px;
+    padding-bottom: 500px;
+ }
+
+ .choiceBtn{
+     background-color: #123e7a;
+     padding: 10px;
+     margin: 10px;
+ }
+
+ .answerBtn{
+    background-color: #123e7a;
+    padding: 10px;
+    margin: 10px;
+}
+
